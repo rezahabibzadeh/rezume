@@ -1,49 +1,50 @@
 
-### Anahita Taheri
+### reza habibzadeh
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: reza
++ last name : habibzadeh
++ Date of birth : 1379/03/13
++ I am a trader and Computer Engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Computer repairs
++ Electronic
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : panezdah khordad high school
++ Bachelor of science : Computer Engineering
+_ payam Noor University of rey 
 
 ### language
 
 ---
 + Persian
 + English
++ turkish
 
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ Electronic
++ Electricity
 + travel 
-+ playing volleyball
++ Computer Repairs
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Computer Repairs - Printers - CCTV - Smart Home.
 
 
 
