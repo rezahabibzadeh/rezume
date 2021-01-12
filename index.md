@@ -8,7 +8,7 @@
 + name: reza
 + last name : habibzadeh
 + Date of birth : 1379/03/13
-+ I am a trader and Computer Engineering student
++ Computer Engineering student
 + location : Tehran , I.R.Iran
 
 
