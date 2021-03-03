@@ -1,51 +1,49 @@
-
-### reza habibzadeh
+<style type="text/css">
+body{ direction:rtl; }
+</style>
+### رضا حبیب زاده
 <a href="https://uupload.ir/view/us1d_whatsapp_image_2021-01-09_at_22.03.02.jpeg" target="_blank"><img src="https://uupload.ir/files/us1d_whatsapp_image_2021-01-09_at_22.03.02_thumb.jpeg" border="0" alt="آپلود عکس" /></a>
-
-### Personal informations
-
----
-+ name: reza
-+ last name : habibzadeh
-+ Date of birth : 1379/03/13
-+ Computer Engineering student
-+ location : Tehran , I.R.Iran
-
-
-### Skill Highlights
+### اطلاعات شخصی
 
 ---
-+ Computer repairs
-+ Electronic
++ نام : رضا
++ نام خانوادگی : حبیب زاده
++ تاریخ تولد : 1379 
++ موقعیت مکانی : ایران،تهران
++ متولد = استان اردبیل
 
-
-### Education
-
----
-+ Computer engineering student
-+ 
-
-### language
+### مهارت ها
 
 ---
-+ Persian
-+ turkish
++ تعمیرات کامپیوتر و لپ تاپ  
++  مسلط به سخت افزار و نرم افزارهای کامپیوتری
++ طراحی خانه های هوشمند
++ تعمیرات برد های الکترونیکی 
++ طراحی و مونتاژ دوربین های مداربسته
++ طراحی سایت 
 
-### Favorites
-
----
-+ Electronic
-+ Electricity
-+ travel 
-+ Computer Repairs
-
-### working Experience
+### تحصیلات
 
 ---
-+ I am working in Computer Repairs - Printers - CCTV - Smart Home - Web design .
++ دانشجوی رشته مهندسی کامپیوتر
+
+### زبان های محاوره
+
+---
++ فارسی
++ ترکی
+
+### علایق
+
+---
++ طراحی و اختراع 
++ الکتریسته
++ الکترونیک
++رانندگی ماشین سنگین
++ مسافرت
++ سخت افزار 
++ طراحی سایت
 
 
 
 
---- 
-### [رزومه فارسی](resume-fa.md)
