@@ -22,15 +22,12 @@
 ### Education
 
 ---
-+ Diploma : panezdah khordad high school
-+ Bachelor of science : Computer Engineering
-_ payam Noor University of rey 
++ Computer engineering student
 
 ### language
 
 ---
 + Persian
-+ English
 + turkish
 
 ### Favorites
@@ -44,7 +41,7 @@ _ payam Noor University of rey
 ### working Experience
 
 ---
-+ I am working in Computer Repairs - Printers - CCTV - Smart Home.
++ I am working in Computer Repairs - Printers - CCTV - Smart Home - Web design .
 
 
 
